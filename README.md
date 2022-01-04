@@ -23,7 +23,7 @@ public class jhordanCamacho {
 <p align="center">
 <img  width="30%" src="https://badges.pufler.dev/commits/monthly/jhordancamacho?style=for-the-badge&logo=appveyor&color=blueviolet">
 </p>
-
+<p align="center>
 <a href="https://github.com/jhordancamacho/reactjs-webpack">
   <img margin-left="23%" src="https://github-readme-stats.vercel.app/api/pin/?username=jhordancamacho&repo=reactjs-webpack&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true" />
 </a>
@@ -36,11 +36,12 @@ public class jhordanCamacho {
 <a href="https://github.com/jhordancamacho/apiGestores">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhordancamacho&repo=apiGestores&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true" />
 </a>
+
 <a href="https://github.com/jhordancamacho/react-ts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhordancamacho&repo=react-ts&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true" />
 </a>
+</p>
 #
-
  <p align='center'>
    <a href="https://github.com/jhordancamacho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=jhordancamacho&langs_count=8&theme=dark&layout=compact"></a>
  </p>
