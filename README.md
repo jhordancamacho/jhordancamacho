@@ -16,10 +16,13 @@ public class jhordanCamacho {
 ```
 
 
+<p align="center">
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=jhordancamacho&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true">
+</p>
 
-<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=jhordancamacho&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true">
-
-<img margin-left="7%" width="30%" src="https://badges.pufler.dev/commits/monthly/jhordancamacho?style=for-the-badge&logo=appveyor&color=blueviolet">
+<p align="center">
+<img  width="30%" src="https://badges.pufler.dev/commits/monthly/jhordancamacho?style=for-the-badge&logo=appveyor&color=blueviolet">
+</p>
 
 <a href="https://github.com/jhordancamacho/reactjs-webpack">
   <img margin-left="23%" src="https://github-readme-stats.vercel.app/api/pin/?username=jhordancamacho&repo=reactjs-webpack&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true" />
