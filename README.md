@@ -46,5 +46,5 @@ public class jhordanCamacho {
 #
 
 <p align='center'>
-   <a href="https://github.com/jhordancamacho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=jhordancamacho&langs_count=8&theme=dark&layout=compact"></a>
+   <a href="https://github.com/jhordancamacho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=jhordancamacho&langs_count=8&layout=compact&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true"></a>
  </p>
