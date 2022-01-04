@@ -8,7 +8,7 @@ package com.jhordancamacho;
 
 public class jhordanCamacho {
      public static final String description = "I’m a Full stack developer. I am passionate about Web Dev & I enjoy learning new things.";
-     public static final String [] languages = {"Java", "JavaScript", "TypeScript", "c#"};
+     public static final String [] languages = {"Java", "JavaScript", "TypeScript", "C#"};
      public static final String [] frameworks = {"Spring Boot", "React", "asp.net"};
      public static final String [] databases = {"MySQL","SQLServer","PostgreSQL"};
      public static final String [] tools = {"Postman", "Git", "GitHub"};   
@@ -24,7 +24,7 @@ public class jhordanCamacho {
 <img  width="30%" src="https://badges.pufler.dev/commits/monthly/jhordancamacho?style=for-the-badge&logo=appveyor&color=blueviolet">
 </p>
 
-<p align="center>
+<p align="center">
 <a href="https://github.com/jhordancamacho/reactjs-webpack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhordancamacho&repo=reactjs-webpack&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true" />
 </a>
