@@ -19,10 +19,10 @@ public class jhordanCamacho {
 
 <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=jhordancamacho&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true">
 
-<img align="center" width="30%" src="https://badges.pufler.dev/commits/monthly/jhordancamacho?style=for-the-badge&logo=appveyor&color=blueviolet">
+<img margin-left="7%" width="30%" src="https://badges.pufler.dev/commits/monthly/jhordancamacho?style=for-the-badge&logo=appveyor&color=blueviolet">
 
 <a href="https://github.com/jhordancamacho/reactjs-webpack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhordancamacho&repo=reactjs-webpack&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true" />
+  <img margin-left="23%" src="https://github-readme-stats.vercel.app/api/pin/?username=jhordancamacho&repo=reactjs-webpack&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true" />
 </a>
 <a href="https://github.com/jhordancamacho/tienda-gamer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhordancamacho&repo=tienda-gamer&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true" />
